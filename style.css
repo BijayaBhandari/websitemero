@@ -1,12 +1,12 @@
 
 *{
-    background-color: azure;
+    background-color: rgb(46, 80, 80);
     margin: 0%;
     padding: 0%;
 }
 
 .mydiv{
-    background-color: aqua;
+    background-color: rgb(71, 131, 131);
     font-family: fantasy;
     text-decoration: double;
 }
