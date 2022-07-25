@@ -1,15 +1,11 @@
 
+*{
+    background-color: azure;
+    margin: 0%;
+    padding: 0%;
+}
 
-
-
-
-
-<p>Economic Crisis In Nepal</p>
-
-
-
-
-p{
+.mydiv{
     background-color: aqua;
     font-family: fantasy;
     text-decoration: double;
